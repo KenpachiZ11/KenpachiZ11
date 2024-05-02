@@ -1,26 +1,4 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**KenpachiZ11/KenpachiZ11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- 
-<h1 align="center">Hi there, I'm <a href="https://github.com/KenpachiZ11?tab=repositories" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-<br>
-
 [![codewars](https://www.codewars.com/users/KenpachiZ11/badges/large)](https://www.codewars.com/users/KenpachiZ11)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -37,6 +15,4 @@ Here are some ideas to get you started:
     <a href="https://t.me/captainkz11">
         <img src='https://img.shields.io/badge/Telegram-blue' alt="Telegram Badge" width='100'>
     </a>
-    <!-- <img src="https://img.shields.io/badge/Telegram-blue" height="50" align='center'/>
-    <h3>Связь со мной можно осуществить по <a href="https://github.com/KenpachiZ11?tab=repositories" target="_blank"></a></h3> -->
 </section>
