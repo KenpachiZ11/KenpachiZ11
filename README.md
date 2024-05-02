@@ -33,3 +33,10 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" align='center'/>
     <h1>Привет, меня зовут <a href="https://github.com/KenpachiZ11?tab=repositories" target="_blank">Даниил</a></h1>
 </section>
+<section id='сonnection' align='center'>
+    <a href="https://t.me/captainkz11" width='350'>
+        <img src='https://img.shields.io/badge/Telegram-blue' alt="Telegram Badge">
+    </a>
+    <!-- <img src="https://img.shields.io/badge/Telegram-blue" height="50" align='center'/>
+    <h3>Связь со мной можно осуществить по <a href="https://github.com/KenpachiZ11?tab=repositories" target="_blank"></a></h3> -->
+</section>
