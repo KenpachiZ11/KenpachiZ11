@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <section id='header' align='center'>
     <h1>
+        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="100" align='center'/>
         Привет, меня зовут <a href="https://github.com/KenpachiZ11?tab=repositories" target="_blank">Даниил</a>
-        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="100"/>
     </h1>
 </section>
