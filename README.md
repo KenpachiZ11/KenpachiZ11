@@ -1,7 +1,3 @@
-<!-- 
-[![codewars](https://www.codewars.com/users/KenpachiZ11/badges/large)](https://www.codewars.com/users/KenpachiZ11)
- -->
-
 <section id='main_info' align='center'>
     <img src='https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif' width="600" align='center'>
     <h2>Привет 👋, меня зовут <a href="https://github.com/KenpachiZ11?tab=repositories">Даниил</a></h2>
@@ -16,6 +12,11 @@
     <li>Увлекаюсь спортом</li>
     <li><a href='https://hh.ru/resume/78c90c32ff08d212290039ed1f6b74666c734e' alt='My job'>Мое резюме</a></li>
 </ul>
+</section>
+<section id='about_me'>
+<h4>Мой аккаунт в CodeWars:</h4>
+ 
+[![codewars](https://www.codewars.com/users/KenpachiZ11/badges/large)](https://www.codewars.com/users/KenpachiZ11)
 </section>
 <section id='my_skills'>
 <h4>Стек технологий, что я использую в работе или какими навыками обладаю:</h4>
@@ -34,11 +35,5 @@
 </section>
 <section id='contact_me'>
 <h4>Связаться со мной можно по:</h4>
-<ul>
-    <li>
-        <a href="https://t.me/captainkz11">
-            <img src='https://img.shields.io/badge/Telegram-blue' alt="Telegram Badge" width='80'>
-        </a>
-    </li>
-</ul>
+<a href="https://t.me/captainkz11"><img src='https://img.shields.io/badge/Telegram-blue' alt="Telegram Badge" width='80'></a>
 </section>
