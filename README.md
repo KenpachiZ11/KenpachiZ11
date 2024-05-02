@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </section>
 <section id='сonnection' align='center'>
     <a href="https://t.me/captainkz11">
-        <img src='https://img.shields.io/badge/Telegram-blue' alt="Telegram Badge" width='200'>
+        <img src='https://img.shields.io/badge/Telegram-blue' alt="Telegram Badge" width='100'>
     </a>
     <!-- <img src="https://img.shields.io/badge/Telegram-blue" height="50" align='center'/>
     <h3>Связь со мной можно осуществить по <a href="https://github.com/KenpachiZ11?tab=repositories" target="_blank"></a></h3> -->
